@@ -1,0 +1,11 @@
+# eICU data and derived outputs (PhysioNet credentialed access; not redistributable)
+real data/alldata_cleaned.csv
+real data/results/
+real data/source_model.rds
+
+# OS / R session files
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+*.sh
